@@ -1,5 +1,15 @@
 # @backstage/plugin-catalog-react
 
+## 0.6.14
+
+### Patch Changes
+
+- 680e7c7452: Updated `useEntityListProvider` and catalog pickers to respond to external changes to query parameters in the URL, such as two sidebar links that apply different catalog filters.
+- 19155e0939: Updated React component type declarations to avoid exporting exotic component types.
+- 7bb1bde7f6: Minor API cleanups
+- Updated dependencies
+  - @backstage/core-components@0.8.8
+
 ## 0.6.14-next.0
 
 ### Patch Changes
